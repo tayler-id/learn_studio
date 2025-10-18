@@ -84,8 +84,8 @@ Structured five-step workflow to keep planning deliberate while leveraging AI as
 ## Implementation Roadmap
 1. **MVP (Weeks 1–6):**
    - Build lesson blueprint wizard with templated AI suggestions.
-   - Deliver basic student agent chat with skill-difficulty adjustments using existing performance data.
-   - Implement teacher sidebar heatmap and push hints.
+   - Deliver basic student agent chat with skill-difficulty adjustments using existing performance data. *(Prototype available in `learn_studio/` package.)*
+   - Implement teacher sidebar heatmap and push hints. *(Prototype dashboard summarises confidence trends.)*
 2. **Beta (Weeks 7–12):**
    - Add calibration warm-ups, multi-modal responses, and reflection bytes.
    - Launch collaboration moment orchestration with simple heuristics.
